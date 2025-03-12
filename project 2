@@ -1,0 +1,10 @@
+#menu card 
+title="list".upper()
+print(title.center(20,"="))
+print("coffe".ljust(15,".")+"rs30".rjust(6))
+print("pizza".ljust(15,".")+"rs90".rjust(6))
+print("creem cake".ljust(15,".")+"rs100".rjust(6))
+bottom="welcome".upper()
+print(bottom.center(20,"="))
+
+print("")
